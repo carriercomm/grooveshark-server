@@ -16,12 +16,12 @@ CONFIG   += release
 TEMPLATE = app
 
 CONFIG(debug, debug|release) {
-QMAKE_CXXFLAGS_DEBUG += -g3 -O0
-message("DEBUG!")
+    QMAKE_CXXFLAGS_DEBUG += -g3 -O0
+    message("DEBUG!")
 } else {
-DEFINES += QT_NO_DEBUG
-DEFINES += QT_NO_DEBUG_OUTPUT
-message("RELEASE!")
+    DEFINES += QT_NO_DEBUG
+    DEFINES += QT_NO_DEBUG_OUTPUT
+    message("RELEASE!")
 }
 
 SOURCES += main.cpp \

@@ -1,0 +1,1841 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"custom",
+				"custom_fields〔variable〕"
+			],
+			[
+				"en",
+				"$entity_order〔variable〕"
+			],
+			[
+				"entit",
+				"entity_order"
+			],
+			[
+				"relate",
+				"$related_recipes〔variable〕"
+			],
+			[
+				"related",
+				"$related_content〔variable〕"
+			],
+			[
+				"post",
+				"$post_type〔variable〕"
+			],
+			[
+				"image",
+				"image_adapter"
+			],
+			[
+				"galle",
+				"$gallery〔variable〕"
+			],
+			[
+				"gallery",
+				"gallery_assets"
+			],
+			[
+				"getClient",
+				"getClientOriginalName〔function〕"
+			],
+			[
+				"redis_",
+				"$redis_options〔variable〕"
+			],
+			[
+				"enti",
+				"$entity_type〔variable〕"
+			],
+			[
+				"Entit",
+				"EntityManager"
+			],
+			[
+				"En",
+				"EntityManager〔class〕"
+			],
+			[
+				"phoenix",
+				"nlm-phoenix-dev"
+			],
+			[
+				"sect",
+				"sectionSearchElement〔variable〕"
+			],
+			[
+				"searc",
+				"getSearchableFields〔function〕"
+			],
+			[
+				"field",
+				"order_by_field〔variable〕"
+			],
+			[
+				"cloud",
+				"cloudsearchOptions〔namespace〕"
+			],
+			[
+				"co",
+				"cloudsearchEndpoint〔variable〕"
+			],
+			[
+				"cloudsear",
+				"cloudsearchOptions〔namespace〕"
+			],
+			[
+				"prox",
+				"proxy_url"
+			],
+			[
+				"ass",
+				"asset"
+			],
+			[
+				"adap",
+				"adapter_params"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"icon-",
+				"icon-width"
+			],
+			[
+				"published",
+				"publishedDataFilter"
+			],
+			[
+				"expo",
+				"export_data"
+			],
+			[
+				"expor",
+				"export_fields  (variable)"
+			],
+			[
+				"ret",
+				"ret1	return true"
+			],
+			[
+				"mime_",
+				"mime_type_keys"
+			],
+			[
+				"bui",
+				"buildCustomQueries"
+			],
+			[
+				"file",
+				"fileInfo"
+			],
+			[
+				"sear",
+				"search_string  (variable)"
+			],
+			[
+				"matche",
+				"matched"
+			],
+			[
+				"persi",
+				"persistorQueue"
+			],
+			[
+				"publi",
+				"publish_date"
+			],
+			[
+				"expi",
+				"expiry_date"
+			],
+			[
+				"redire",
+				"redirect_url"
+			],
+			[
+				"eni",
+				"entity"
+			],
+			[
+				"genera",
+				"generateUrl  (function)"
+			],
+			[
+				"generat",
+				"generateUrl"
+			],
+			[
+				"STATUS",
+				"STATUS_DRAFT"
+			],
+			[
+				"rule",
+				"rule_manager"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"eent",
+				"event_class  (variable)"
+			],
+			[
+				"specif",
+				"specification_class"
+			],
+			[
+				"ser",
+				"service_container"
+			],
+			[
+				"IsPublish",
+				"isPublished"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"find",
+				"findTaggedServiceIds  (function)"
+			],
+			[
+				"parse",
+				"parsed"
+			],
+			[
+				"current",
+				"current_value"
+			],
+			[
+				"feat",
+				"featured_image_id"
+			],
+			[
+				"meta",
+				"meta_data_updated"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"fea",
+				"featured_image_id"
+			],
+			[
+				"setFeatured",
+				"setFeaturedImageHtml"
+			],
+			[
+				"post_typ",
+				"post_type_filters"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tab",
+				"tab_hook"
+			],
+			[
+				"curre",
+				"current_post_type"
+			],
+			[
+				"func_get",
+				"func_get_args"
+			],
+			[
+				"POST_TY",
+				"DEFAULT_POST_TYPE"
+			],
+			[
+				"meta_da",
+				"meta_data_key"
+			],
+			[
+				"publih",
+				"publish_state"
+			],
+			[
+				"pub",
+				"publish_state"
+			],
+			[
+				"s",
+				"sfredirect	Symfony2 / Controller / Redirect"
+			],
+			[
+				"se",
+				"since  (variable)"
+			],
+			[
+				"ENTIT",
+				"RECIPE_ENTITY_NAME"
+			],
+			[
+				"param",
+				"paramFetcher"
+			],
+			[
+				"Collec",
+				"Collection"
+			],
+			[
+				"Coll",
+				"CollectionRecipe"
+			],
+			[
+				"collect",
+				"collectionItemRecipe  (variable)"
+			],
+			[
+				"collection",
+				"collectionItemRecipe"
+			],
+			[
+				"ContentManage",
+				"ContentManagerRecipe"
+			],
+			[
+				"Collect",
+				"CollectionRecipe  (class)"
+			],
+			[
+				"Collection",
+				"CollectionItemRecipe"
+			],
+			[
+				"colle",
+				"collection"
+			],
+			[
+				"rer_",
+				"ref_line  (variable)"
+			],
+			[
+				"req",
+				"req_start_line"
+			],
+			[
+				"line",
+				"line_no  (variable)"
+			],
+			[
+				"log",
+				"log_contents"
+			],
+			[
+				"First",
+				"FirstName"
+			],
+			[
+				"res",
+				"res_preg_due"
+			],
+			[
+				"db",
+				"db_meta"
+			],
+			[
+				"chil",
+				"children_count  (variable)"
+			],
+			[
+				"chi",
+				"children_count"
+			],
+			[
+				"no",
+				"no_children"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"update_use",
+				"update_user_meta"
+			],
+			[
+				"update_",
+				"update_user_meta"
+			],
+			[
+				"update",
+				"update_user_meta"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"name",
+				"name_first"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"Asse",
+				"AssetEventRelationshipID"
+			],
+			[
+				"logentry",
+				"LogEntryTypeID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/purinda/Raspberry Pi2 - Raspbian",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix",
+				"name": "Raspberry Pi2 - Raspbian"
+			}
+		},
+		{
+			"file": "qconfig.cpp",
+			"settings":
+			{
+				"buffer_size": 606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/grooveshark/qplayer.cpp",
+			"settings":
+			{
+				"buffer_size": 4177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qserver.cpp",
+			"settings":
+			{
+				"buffer_size": 1600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qserverchildthread.cpp",
+			"settings":
+			{
+				"buffer_size": 3845,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qserver.h",
+			"settings":
+			{
+				"buffer_size": 670,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qsongsqueue.h",
+			"settings":
+			{
+				"buffer_size": 359,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qsongsqueue.cpp",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/grooveshark/qgroovesession.h",
+			"settings":
+			{
+				"buffer_size": 1365,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/grooveshark/qplayer.h",
+			"settings":
+			{
+				"buffer_size": 809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qconfig.h",
+			"settings":
+			{
+				"buffer_size": 1027,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"sfcontr",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"symf",
+				"Snippet: Symfony2 / Controller / Action"
+			],
+			[
+				"sfcontroller",
+				"Snippet: Symfony2 / Controller / Controller class"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/thor/Projects/grooveshark-server",
+		"/mnt/thor/Projects/grooveshark-server/lib",
+		"/mnt/thor/Projects/grooveshark-server/lib/grooveshark"
+	],
+	"file_history":
+	[
+		"/mnt/thor/Projects/grooveshark-server/grooveshark.pro",
+		"/mnt/thor/Projects/grooveshark-server/qserverchildthread.h",
+		"/mnt/thor/Projects/grooveshark-server/lib/grooveshark/qtokendata.cpp",
+		"/mnt/thor/Projects/grooveshark-server/grooveshark.pro.user",
+		"/Users/purinda/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/mnt/thor/Projects/grooveshark-server/lib/grooveshark/qplayer.h",
+		"/mnt/thor/Projects/grooveshark-server/main.cpp",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CustomCategoryControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/GalleryDescriptionControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/initialiser.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/Control.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/RelatedContentControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CategoryEditControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/MediaFilterControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/MediaPostControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/phoenix/cloud-search/src/Nlm/CloudSearch/Api/SearchSuggester.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/CloudSearchClient.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/aws/aws-sdk-php/src/Aws/CloudSearchDomain/CloudSearchDomainClientBuilder.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/Exception/BaseException.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/aws/aws-sdk-php/src/Aws/CloudFront/CloudFrontClient.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/content-manager/src/News/ContentManager/Events/LookupKeyBuilderEvent.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/content-manager/composer.lock",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/content-manager/.gitignore",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-core/src/xmlrpc.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/content-manager/src/News/ContentManager/Interfaces/EntityInterface.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/fzaninotto/faker/src/Faker/Provider/PhoneNumber.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/Route53/Exception/HostedZoneNotEmptyException.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/phpunit.xml.dist",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/config/parameters.yml",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/Exception/ResourceNotFoundException.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/Exception/CloudSearchException.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/CloudSearchClient.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudFormation/CloudFormationClient.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-includes/class-oembed.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/composer/ClassLoader.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/composer.json",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudSearch/Exception/BaseException.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/aws/aws-sdk-php/src/Aws/CloudSearchDomain/CloudSearchDomainClientBuilder.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-autocomplete.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_Autocomplete.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/js/fieldmanager-autocomplete.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Autocomplete.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/js/fieldmanager-autocomplete-recipe.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/js/fieldmanager-autocomplete.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Autocomplete.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-core/tests/qunit/editor/tinymce/ui/Control.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-includes/js/mediaelement/controls.svg",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/doctrine/instantiator/CONTRIBUTING.md",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-content/themes/twentyfourteen/content-none.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-field.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/src/Nlm/KidspotBundle/Controller/Kitchen/CategoryController.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phpunit/phpunit/src/Framework/Constraint/FileExists.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-admin/freedoms.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-field.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/function-_fieldmanager_registry.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_TextField.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/tests/php/test_fieldmanager_field.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/tests/php/test_fieldmanager_field.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_Field.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-group.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/css/fieldmanager-group-tabs.css",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/tests/php/test-fieldmanager-group.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/js/fieldmanager-group-tabs.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/css/fieldmanager-group-tabs.css",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/class-Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/api/classes/Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/js/fieldmanager-group-tabs.js",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/tests/php/test-fieldmanager-group.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/docs/source-class-Fieldmanager_Group.html",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-group.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phpdocumentor/reflection-docblock/src/phpDocumentor/Reflection/DocBlock/Description.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/symfony/console/Symfony/Component/Console/Descriptor/TextDescriptor.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/symfony/console/Symfony/Component/Console/Tests/Descriptor/AbstractDescriptorTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phpdocumentor/reflection-docblock/tests/phpDocumentor/Reflection/DocBlock/DescriptionTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/jms/serializer/src/JMS/Serializer/Annotation/PostDeserialize.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-admin/post.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/guzzle/guzzle/docs/plugins/plugins-overview.rst",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CanonicalCategoryControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Enum/MetaBoxContext.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-includes/category.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-includes/category-template.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-content/themes/twentyfourteen/content-aside.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/tests/phpunit/Control/CustomCategoryControlTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/PostPreviewLiveUrlControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/tests/phpunit/Control/ControlTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/PostSummaryControl.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/bravo3/orm/src/Bravo3/Orm/Serialisers/JsonSerialiser.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractEntity.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/Collection.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/app/config/config.yml",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentFormatter/ContentPackFormatter.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Traits/BuildEntityTrait.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/ContentPack.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/src/Nlm/FrontendBundle/Resources/config/services.yml",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/bravo3/orm/src/Bravo3/Orm/Serialisers/JsonSerialiser.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Enum/PostType.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-initialiser/tests/phpunit/PostType/PostTypeTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/twig/twig/test/Twig/Tests/Node/Expression/Unary/PosTest.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/guzzle/guzzle/docs/plugins/plugins-overview.rst",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/app/config/parameters.yml",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/gedmo/doctrine-extensions/tests/Gedmo/Tree/Fixture/Closure/News.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/symfony/swiftmailer-bundle/Command/NewEmailCommand.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-admin/network.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/Article.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractContentEntity.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/src/Nlm/Kidspot/Command/ImportFakeData/Entity/Article.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/vendor/phoenix/wordpress-fieldmanager/docs/sample/article.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/src/Nlm/FrontendBundle/Controller/ArticleController.php",
+		"/mnt/kidspot-vm/Projects/phoenix-cms/web/wp-admin/css/about-rtl.css",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/composer/autoload_real.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/app/autoload.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/Recipe.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/phoenix/content-manager/src/News/ContentManager/Entities/Content/Recipe.php",
+		"/mnt/kidspot-vm/Projects/phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/ContentManager/Recipe.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/mnt/kidspot-vm/Projects/kidspot-k2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"networkSession",
+			"mRunThread",
+			"mutex",
+			"getStreamKeyFromSongIDEx",
+			"gsRequest",
+			"onTokenDataLoaded",
+			"getStreamKeyFromSongIDEx",
+			"source",
+			"datasource",
+			"getCustomControl",
+			"getFieldGroupChildren",
+			"form_element",
+			"add_term_form",
+			"add_meta_box",
+			"custom_control",
+			"custom_control = ",
+			"custom_control =",
+			"magazine",
+			"canonical_category_wrapper",
+			"getSelectField",
+			"CanonicalCategoryControl",
+			"CategoryEditControl",
+			"CustomCategoryControl",
+			"fieldmanager",
+			"applyEntityOrder",
+			"setEntityOrder",
+			"(\n",
+			"seriali",
+			"entity_order",
+			"aws_cloudsearch_suggester_name",
+			"getAssetKey",
+			"getFilePath",
+			"ext",
+			"extension",
+			"getAssetKey",
+			"asset\\",
+			"asset",
+			"img-responsive",
+			"raw_content_type",
+			"write",
+			"push",
+			"s3",
+			"gallery",
+			"savePost",
+			"title",
+			"Images",
+			"image",
+			"createGalleryTitle",
+			"file",
+			"Yaml",
+			"delimiter",
+			"parameters.",
+			"Conf",
+			"CONFIG_PATH",
+			"gallery",
+			"nlm.frontend.manager.image",
+			"setFile",
+			"getSubjectFromParent",
+			"image",
+			"file",
+			"File",
+			"getFilename",
+			"regenerateFileName",
+			"getFilename",
+			"proxy",
+			"proxy_url",
+			"this->updated",
+			"format",
+			"font-weight",
+			"assets",
+			"orm.em",
+			"EntityManager",
+			"entity_manager",
+			"EntityManager",
+			"Manager",
+			"proxy_url",
+			"nlm_recipe_engine",
+			"content_manager",
+			"btyb",
+			"buildImageManager",
+			"btyb",
+			"aws_key",
+			"content_server",
+			"content_manager",
+			"app/config/config.yml",
+			"redis",
+			"nlm_recipe_engine_site_code",
+			"nlm_asset_handler",
+			"taste",
+			"nlm_asset_handler",
+			"nlm_asset_handler.adapter.aws_s3.bucket_name",
+			"bucket_name",
+			"proxy",
+			"aws_s3",
+			"s3",
+			"options",
+			"s3",
+			"image_manager",
+			"aws_",
+			"nlm_frontend",
+			"entity",
+			"site_arbiter",
+			"aws",
+			"s3",
+			"getImageManager",
+			"n getImageManager",
+			"getImageManager",
+			"createVariation",
+			"getImageVariation",
+			"btyb",
+			"IndexQuery",
+			"entity_manager",
+			">>",
+			"<<",
+			"content_manager",
+			"entity_manager",
+			"ORM",
+			"aws_cloudsearch_suggester_name",
+			"redis",
+			"use News\\ContentManager\\ContentManager;\ngetPrim",
+			"getImageVariation",
+			"orm.em",
+			"security",
+			"security_manager",
+			"security",
+			"security_manager",
+			"security",
+			"content_server"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"& .",
+			"&.",
+			"",
+			"Rules",
+			"",
+			"SET = utf8",
+			"AUTO_INCREMENT = 0",
+			"Recipe",
+			"recipe",
+			"article",
+			"recipes",
+			"Recipes",
+			"CollectionRecipe",
+			"collectionrecipe",
+			"recipe",
+			"Recipe",
+			"Recipes",
+			"recipes",
+			"recipe",
+			"Recipe",
+			"Nlm\\RecipeEngineBundle",
+			"RecipeEngineBundle",
+			"",
+			"$1",
+			"_",
+			"\"\n\"",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/purinda/Raspberry Pi2 - Raspbian",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Raspberry Pi2 - Raspbian",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "qconfig.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/grooveshark/qplayer.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4175,
+								4175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1922.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "qserver.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 151.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "qserverchildthread.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "qserver.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "qsongsqueue.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "qsongsqueue.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "lib/grooveshark/qgroovesession.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1315,
+								1330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "lib/grooveshark/qplayer.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "qconfig.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 179.0
+	},
+	"project": "grooveshark.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fieldmanagerautocomplete",
+				"vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-autocomplete.php"
+			],
+			[
+				"control.php",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/Control.php"
+			],
+			[
+				"relatedcontentcontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/RelatedContentControl.php"
+			],
+			[
+				"class-fieldmanagerfield.php",
+				"vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-field.php"
+			],
+			[
+				"fieldmanagergroup",
+				"vendor/phoenix/wordpress-fieldmanager/src/News/Wordpress/Fieldmanager/php/class-fieldmanager-group.php"
+			],
+			[
+				"postdescriptioncontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/GalleryDescriptionControl.php"
+			],
+			[
+				"canonicalcategorycontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CanonicalCategoryControl.php"
+			],
+			[
+				"categoryeditcontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CategoryEditControl.php"
+			],
+			[
+				"customcategorycontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/CustomCategoryControl.php"
+			],
+			[
+				"postpreviewliveurlcontrol",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/PostPreviewLiveUrlControl.php"
+			],
+			[
+				"contro.php",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/Control.php"
+			],
+			[
+				"phoenix-cms/vendor/bravo3/orm/src/bravo3/orm/serialisers/jsonserialiser.php",
+				"phoenix-cms/vendor/bravo3/orm/src/Bravo3/Orm/Serialisers/JsonSerialiser.php"
+			],
+			[
+				"",
+				"phoenix-frontend/src/Nlm/FrontendBundle/Resources/config/services.yml"
+			],
+			[
+				"bravo3/orm/src/bravo3/orm/serialisers/jsonserialiser",
+				"phoenix-frontend/vendor/bravo3/orm/src/Bravo3/Orm/Serialisers/JsonSerialiser.php"
+			],
+			[
+				"abstractcontententity",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractContentEntity.php"
+			],
+			[
+				"newsphoenixarticle.php",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/Article.php"
+			],
+			[
+				"recipe.php",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/Recipe.php"
+			],
+			[
+				"recipe-enginerecipe.php",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/ContentManager/Recipe.php"
+			],
+			[
+				"galleryco",
+				"src/Nlm/FrontendBundle/Controller/GalleryController.php"
+			],
+			[
+				"param",
+				"app/config/parameters.yml.dist"
+			],
+			[
+				"services",
+				"src/Nlm/FrontendBundle/Resources/config/services.yml"
+			],
+			[
+				"config.",
+				"app/config/config.yml"
+			],
+			[
+				"vendor/phoenix/cloud-search/src/nlm/cloudsearch/api/searchbase.php",
+				"vendor/phoenix/cloud-search/src/Nlm/CloudSearch/Api/SearchBase.php"
+			],
+			[
+				"gallery.tig",
+				"src/Nlm/KidspotBundle/Resources/views/gallery.html.twig"
+			],
+			[
+				"news/phoenix/contentmanager/entity/asset",
+				"vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"assetformatter",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentFormatter/AssetFormatter.php"
+			],
+			[
+				"initialiser/contentbridge/traits/buildentitytrait.php",
+				"vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Traits/BuildEntityTrait.php"
+			],
+			[
+				"news/phoenix/contentmanager/entity/abstracten",
+				"vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractEntity.php"
+			],
+			[
+				"parame",
+				"config/parameters.yml"
+			],
+			[
+				"news/phoenix/contentmanager/entity/abstract",
+				"vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"news/phoenix/contentmanager/entity/abstractasset",
+				"phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"buildentit",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Traits/BuildEntityTrait.php"
+			],
+			[
+				"abstractasset",
+				"phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"news/wordpress/initialiser/contentbridge/traits/entitytypetrait.php",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Traits/EntityTypeTrait.php"
+			],
+			[
+				"gallerycontrol",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/GalleryDescriptionControl.php"
+			],
+			[
+				"phoenix-cmsdatainspect",
+				"phoenix-cms/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Services/DataInspector.php"
+			],
+			[
+				"bravo3imagemanagerimage.php",
+				"phoenix-cms/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Entities/Image.php"
+			],
+			[
+				"phoenix-cmsnewcontentmanagerimage",
+				"phoenix-cms/vendor/phoenix/content-manager/src/News/ContentManager/Entities/Common/Image.php"
+			],
+			[
+				"imagemanager",
+				"phoenix-cms/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Services/ImageManager.php"
+			],
+			[
+				"gaufrette/filesystem",
+				"phoenix-frontend/vendor/knplabs/gaufrette/src/Gaufrette/Filesystem.php"
+			],
+			[
+				"paramet",
+				"phoenix-frontend/app/config/parameters.yml"
+			],
+			[
+				"imagemana",
+				"phoenix-frontend/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Services/ImageManager.php"
+			],
+			[
+				"s3uploader",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Listeners/S3Uploader.php"
+			],
+			[
+				"parameter",
+				"phoenix-cms/config/parameters.yml"
+			],
+			[
+				"datainsp",
+				"phoenix-frontend/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Services/DataInspector.php"
+			],
+			[
+				"frontendnewsphoenixabstract",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"master",
+				"phoenix-frontend/src/Nlm/FrontendBundle/Controller/MasterController.php"
+			],
+			[
+				"newsphoenixcontentmanagerabstractasset",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"assetmana",
+				"phoenix-frontend/src/Nlm/FrontendBundle/Services/Manager/AssetManager.php"
+			],
+			[
+				"abstractentity",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractEntity.php"
+			],
+			[
+				"news/phoenix/contentmanager/entity/abstractass",
+				"phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"newsphoenixabstractasset",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"news/phoenix/contentmanager/entity/abast",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Phoenix/ContentManager/Entity/AbstractEntity.php"
+			],
+			[
+				"postsummary",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/PostSummaryControl.php"
+			],
+			[
+				"newsphoenixcoabstractasset",
+				"phoenix-cms/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/AbstractAsset.php"
+			],
+			[
+				"contentmangerasset.php",
+				"phoenix-frontend/vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/Asset.php"
+			],
+			[
+				"buildentity",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Traits/BuildEntityTrait.php"
+			],
+			[
+				"assetformatt",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentFormatter/AssetFormatter.php"
+			],
+			[
+				"gallery.ti",
+				"phoenix-frontend/src/Nlm/KidspotBundle/Resources/views/gallery.html.twig"
+			],
+			[
+				"gallerycontro",
+				"phoenix-frontend/src/Nlm/FrontendBundle/Controller/GalleryController.php"
+			],
+			[
+				"contentbrid",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/ContentBridge.php"
+			],
+			[
+				"initia",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/initialiser.php"
+			],
+			[
+				"cmsparameter",
+				"phoenix-cms/config/parameters.yml"
+			],
+			[
+				"incenteev//parameterhandler//scripthandler",
+				"phoenix-frontend/vendor/incenteev/composer-parameter-handler/Incenteev/ParameterHandler/Tests/ScriptHandlerTest.php"
+			],
+			[
+				"web/wp-includes/media.php",
+				"phoenix-cms/web/wp-includes/media.php"
+			],
+			[
+				"yml.php",
+				"phoenix-cms/vendor/symfony/yaml/Symfony/Component/Yaml/Yaml.php"
+			],
+			[
+				"symfony/component/yaml/parse",
+				"phoenix-cms/vendor/symfony/yaml/Symfony/Component/Yaml/Parser.php"
+			],
+			[
+				"symfonyyml.",
+				"phoenix-cms/vendor/symfony/yaml/Symfony/Component/Yaml/Yaml.php"
+			],
+			[
+				"symfony/component/yaml/yaml",
+				"phoenix-cms/vendor/symfony/yaml/Symfony/Component/Yaml/Yaml.php"
+			],
+			[
+				"conf.php",
+				"phoenix-cms/vendor/bravo3/properties/src/Bravo3/Properties/Conf.php"
+			],
+			[
+				"wordpress/initialiser/initialiser.php",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/initialiser.php"
+			],
+			[
+				"connection/abstractconnection.php",
+				"phoenix-frontend/vendor/predis/predis/src/Connection/AbstractConnection.php"
+			],
+			[
+				"/initialiser/control/magazinesourcecontrol.php",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/Control/MagazineSourceControl.php"
+			],
+			[
+				"src/news/wordpress/initialiser/initialiser.php",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/initialiser.php"
+			],
+			[
+				"gallerytwig",
+				"src/Nlm/KidspotBundle/Resources/views/gallery.html.twig"
+			],
+			[
+				"vendor/bravo3/image-manager/src/bravo3/imagemanager/encoders/imagickencoder.php",
+				"vendor/bravo3/image-manager/src/Bravo3/ImageManager/Encoders/ImagickEncoder.php"
+			],
+			[
+				"cmsasset",
+				"vendor/news/phoenix-content-manager/src/News/Phoenix/ContentManager/Entity/Asset.php"
+			],
+			[
+				"src/nlm/frontendbundle/dependencyinjection/nlmfrontendextension.php",
+				"src/Nlm/FrontendBundle/DependencyInjection/NlmFrontendExtension.php"
+			],
+			[
+				"recipeengineservices",
+				"vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Resources/config/services.yml"
+			],
+			[
+				"service",
+				"src/Nlm/FrontendBundle/Resources/config/services.yml"
+			],
+			[
+				"imagedimensions",
+				"vendor/bravo3/image-manager/src/Bravo3/ImageManager/Entities/ImageDimensions.php"
+			],
+			[
+				"/image-manager/src/bravo3/imagemanager/services/imagemanager.php",
+				"vendor/bravo3/image-manager/src/Bravo3/ImageManager/Services/ImageManager.php"
+			],
+			[
+				"assetadmi",
+				"src/NLM/TasteCMSBundle/Admin/AssetAdmin.php"
+			],
+			[
+				"recipeadminctrol",
+				"src/NLM/TasteCMSBundle/Controller/RecipeAdminController.php"
+			],
+			[
+				"app/config/config.yml",
+				"app/config/config.yml"
+			],
+			[
+				"nlm/recipeenginebundle/entity/baseasse",
+				"vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/BaseAsset.php"
+			],
+			[
+				"recipe-engine/src/nlm/recipeenginebundle/entity/asset.php",
+				"vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Entity/Asset.php"
+			],
+			[
+				"nlmkidspotbundle/resources/public/css/fonts.css",
+				"phoenix-frontend/src/Nlm/KidspotBundle/Resources/public/css/fonts.css"
+			],
+			[
+				"nlmkidspotbundle/resources/public/css/kidspot_nav.scss",
+				"phoenix-frontend/src/Nlm/KidspotBundle/Resources/public/css/kidspot_nav.scss"
+			],
+			[
+				"frontendimagemanager",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"bravo3/ormbundle/services/factories/ormfactory",
+				"phoenix-recipes/vendor/bravo3/orm-bundle/src/Bravo3/OrmBundle/Services/Factories/OrmFactory.php"
+			],
+			[
+				"bravo3/orm/services/entit",
+				"phoenix-recipes/vendor/bravo3/orm/src/Bravo3/Orm/Services/EntityManager.php"
+			],
+			[
+				"parameters.di",
+				"phoenix-recipes/app/config/parameters.yml.dist"
+			],
+			[
+				"frontendimagemanagerf",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"recipeenginebundle/services/imagemanagerfactory",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"contentmanagerfactory",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ContentManagerFactory.php"
+			],
+			[
+				"/recipe-engine/src/nlm/recipeenginebundle/contentmanager.php",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/ContentManager.php"
+			],
+			[
+				"recipeenginebundleservices.yml",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Resources/config/services.yml"
+			],
+			[
+				"initialise",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/initialiser.php"
+			],
+			[
+				"recipe-engine/src/nlm/recipeenginebundle/contentmanager",
+				"vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/ContentManager.php"
+			],
+			[
+				"news/wordpress/initialiser/posttype/btyb",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/PostType/Btyb.php"
+			],
+			[
+				"cipe-engine/src/nlm/recipeenginebundle/services/imagemanagerfactory.php",
+				"vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"recipeenginebundleimagemana",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"imagemanagerfact",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"nlm/recipeenginebundle/services/imagemanagerfactory",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"vendor/phoenix/recipe-engine/src/nlm/recipeenginebundle/dependencyinjection/nlmrecipeengineextension.php",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/DependencyInjection/NlmRecipeEngineExtension.php"
+			],
+			[
+				"src/nlm/recipeenginebundle/dependencyinjection/nlmrecipeengineextension.php",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/DependencyInjection/NlmRecipeEngineExtension.php"
+			],
+			[
+				"src/nlm/recipeenginebundle/dependencyinjection/configuration.php",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/DependencyInjection/Configuration.php"
+			],
+			[
+				"recipeenginebundle/contentmanager",
+				"phoenix-recipes/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/ContentManager.php"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"tasteassetbundle/dependencyinjection/nlmtasteassetextension.php",
+				"src/NLM/TasteAssetBundle/DependencyInjection/NLMTasteAssetExtension.php"
+			],
+			[
+				"src/nlm/bestrecipesdatamigrationbundle/resources/config/services.yml",
+				"src/NLM/BestRecipesDataMigrationBundle/Resources/config/services.yml"
+			],
+			[
+				"src/nlm/bestrecipesdatamigrationbundle/csvfile/linemapper/recipemapper.php",
+				"src/NLM/BestRecipesDataMigrationBundle/CsvFile/LineMapper/RecipeMapper.php"
+			],
+			[
+				"app/config/services.yml",
+				"app/config/services.yml"
+			],
+			[
+				"src/nlm/tasteassetbundle/dependencyinjection/nlmtasteassetextension.php",
+				"src/NLM/TasteAssetBundle/DependencyInjection/NLMTasteAssetExtension.php"
+			],
+			[
+				"phoenix-recipesimagemanagerfa",
+				"phoenix-frontend/vendor/phoenix/recipe-engine/src/Nlm/RecipeEngineBundle/Services/ImageManagerFactory.php"
+			],
+			[
+				"cmsparamet",
+				"phoenix-cms/config/parameters.yml"
+			],
+			[
+				"news/contentmanager/drivers/",
+				"phoenix-frontend/vendor/phoenix/content-manager/src/News/ContentManager/Drivers/RedisContentDriver.php"
+			],
+			[
+				"cmsparamete",
+				"phoenix-cms/config/parameters.yml"
+			],
+			[
+				"rediscontentd",
+				"phoenix-frontend/vendor/phoenix/content-manager/src/News/ContentManager/Drivers/RedisContentDriver.php"
+			],
+			[
+				"composer.jso",
+				"phoenix-cms/composer.json"
+			],
+			[
+				"s3upload",
+				"phoenix-cms/vendor/phoenix/wordpress-initialiser/src/News/Wordpress/Initialiser/ContentBridge/Listeners/S3Uploader.php"
+			],
+			[
+				"config",
+				"phoenix-frontend/app/config/config.yml"
+			],
+			[
+				"url",
+				"phoenix-frontend/src/Nlm/FrontendBundle/Services/UrlResolver.php"
+			],
+			[
+				"bravo3/imagemanager/entities/imag.p",
+				"phoenix-frontend/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Entities/Image.php"
+			],
+			[
+				"abstractcontentdriver",
+				"phoenix-frontend/vendor/phoenix/content-manager/src/News/ContentManager/Drivers/AbstractContentDriver.php"
+			],
+			[
+				"redisconte",
+				"phoenix-frontend/vendor/phoenix/content-manager/src/News/ContentManager/Drivers/RedisContentDriver.php"
+			],
+			[
+				"imagevariation",
+				"phoenix-frontend/vendor/bravo3/image-manager/src/Bravo3/ImageManager/Entities/ImageVariation.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 678.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 426.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
