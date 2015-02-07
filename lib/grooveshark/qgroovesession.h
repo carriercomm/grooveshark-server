@@ -24,11 +24,11 @@ private:
     bool sessionActive = false;
 
 private slots:
-    void onLoadTokenDataSlot(QNetworkReply* reply);
-    void loadCommunicationToken(QString tokenResponse);
+    void onLoadTokenDataSlot(QNetworkReply*);
+    void loadCommunicationToken(QString);
 
     // Function to split responses
-    void onResponse(int postActionId, QString response);
+    void onResponse(int, QString);
 
 public:
     const QString SALT       = ":tastyTacos:";
@@ -49,7 +49,7 @@ public:
     bool isActive();
     void loadTokenData();
     void getCommunicationToken();
-    QMap<QString, QVariant> getHeaderMap(QString method);
+    QMap<QString, QVariant> getHeaderMap(QString);
 
 signals:
     void tokenDataLoaded();

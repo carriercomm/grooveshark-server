@@ -22,6 +22,10 @@ QMap<QString, QVariant> QPlayer::getSongData(QString response) {
     return data;
 }
 
+/**
+ * [QPlayer::getStreamKeyFromSongIDEx description]
+ * @param songId [description]
+ */
 void QPlayer::getStreamKeyFromSongIDEx(ulong songId) {
     const QString GS_FUNCTION = "getStreamKeyFromSongIDEx";
 
@@ -69,6 +73,7 @@ void QPlayer::onResponse(int postActionId, QString response) {
 void QPlayer::onCommand(Player::Command command, quint32 param1) {
     switch (command) {
     case Player::Play:
+
         // Buffer a new song or continue playing the buffered
         if (param1 > 0) {
             qDebug() << "Request to play song ID: " << param1 << " received. queing.. ";
@@ -77,20 +82,23 @@ void QPlayer::onCommand(Player::Command command, quint32 param1) {
             qDebug() << "Continue playing" << endl;
             this->player->play();
         }
-
         break;
+
     case Player::Pause:
         qDebug() << "Song paused" << endl;
         this->player->pause();
         break;
+
     case Player::Stop:
         qDebug() << "Song stopped" << endl;
         this->player->stop();
         break;
+
     case Player::SetVol:
         if (param1 > 100 || param1 < 0) {
             param1 = 100;
         }
+
         this->volumeLevel = param1;
         this->player->setVolume(this->volumeLevel);
         break;
@@ -117,9 +125,7 @@ void QPlayer::start() {
 void QPlayer::QPlayer::onBufferingProgress(int progress) {
     qDebug() << progress << "%...";
 
-    // TODO: Fix this shit. For some reason on rPi you need to stop and replay
-    // once the buffering is done. This must be a bug in the compile libraries for ARMv6.
-    // This needs a fix!!!
+    // Buffering has to be 100% before playing/resuming queued media.
     if (progress == 100) {
         this->player->play();
     }

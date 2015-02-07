@@ -38,10 +38,10 @@ public:
     }
 
     // Functions
-    void initConfig(QString appDir);
-    QVariant getSetting(QString setting, QVariant defaultVal);
+    void initConfig(QString);
+    QVariant getSetting(QString, QVariant);
     void writeSettings();
-    void setSetting(QString setting, QVariant value);
+    void setSetting(QString, QVariant);
 
 private:
     QConfig() {}

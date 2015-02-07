@@ -26,23 +26,23 @@ private:
     QMediaPlayer *player;
     int volumeLevel = 100;
 
-    QMap<QString, QVariant> getSongData(QString reponse);
+    QMap<QString, QVariant> getSongData(QString);
 
 private slots:
     void onTokenDataLoaded();
-    void onResponse(int postActionId, QString response);
+    void onResponse(int, QString);
 
 public:
     explicit QPlayer(QObject *parent = 0);
 
-    void getStreamKeyFromSongIDEx(ulong songId);
+    void getStreamKeyFromSongIDEx(ulong);
 
 public slots:
     void start();
 
     // Player control
-    void onCommand(Player::Command command, quint32 param1);
-    void onBufferingProgress(int progress);
+    void onCommand(Player::Command, quint32);
+    void onBufferingProgress(int);
 };
 
 #endif // QPLAYER_H

@@ -30,7 +30,7 @@ void QServerChildThread::run() {
 void QServerChildThread::onResponse() {
     qDebug() << "Request received " << endl;
 
-    QRegExp matchRequests("(\\w+)\\s?(\\d*)");
+    QRegExp matchRequests("(\\w+)\\s?(.*)");
     QString command, param;
 
     qDebug() << "Bytes available: " << clientConnection->bytesAvailable() << endl;
@@ -49,8 +49,14 @@ void QServerChildThread::onResponse() {
 
         if (command == "PLAY") {
             if (param.toInt() != 0) {
-                // Start a new song
+
+                // Start playing the song
                 emit playSong(param.toInt());
+            } else if (param.length() > 0) {
+                qDebug() << "Playlist: " << param;
+
+                // send playlist to the player
+                emit setPlaylist(param);
             } else {
                 // Continue playing a paused/stopped song
                 emit playSong(0);

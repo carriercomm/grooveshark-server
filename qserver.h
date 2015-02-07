@@ -2,15 +2,10 @@
 #define QSERVER_H
 
 #include <QObject>
-#include <QNetworkConfiguration>
-#include <QNetworkSession>
 #include <QTcpServer>
 #include <QTcpSocket>
 #include <QSettings>
-#include <QDataStream>
-#include <QMutex>
-#include <QThread>
-#include <QRegExp>
+#include <QQueue>
 #include "qserverchildthread.h"
 #include "lib/grooveshark/qplayer.h"
 #include "qconfig.h"
@@ -18,14 +13,10 @@
 class QServer : public QTcpServer
 {
     Q_OBJECT
-private:
-    QNetworkSession *networkSession;
-
-    QMutex mMutex, mClientConnection, mRequestLocker;
-    bool mRunThread;
-
 protected:
-    void incomingConnection(qintptr socketDescriptor);
+    QQueue queued_songs;
+
+    void incomingConnection(qintptr);
 
 public:
     QServer(QObject *parent = 0);
@@ -34,14 +25,14 @@ public slots:
     void playSong(quint32);
     void pauseSong();
     void stopSong();
-    void setVolume(int volume);
+    void setVolume(int);
 
     // Handle client socket errors
-    void onClientSocketError(QTcpSocket::SocketError error);
+    void onClientSocketError(QTcpSocket::SocketError);
 
 signals:
     void finished();
-    void sendCommand(Player::Command command, quint32 param1 = 0);
+    void sendCommand(Player::Command, quint32 param1 = 0);
 
 };
 

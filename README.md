@@ -15,6 +15,7 @@ Application is built on top of [Grooveshark music streaming service](http://www.
 Unoffical API that I *had* to write (since they dont have a public streaming API for "everyone") can be found in lib/grooveshark.
 
 ## Dependancies
+* GCC 4.7 or greater (because of Non-static data member initializers)
 * Qt 5 or greater
 * GStreamer (compiled or plugins with mpeg3 decoder, http streaming capabilities.)
 * libgl1-mesa-dev (for Qt5)
