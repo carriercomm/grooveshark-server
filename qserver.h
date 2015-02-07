@@ -5,7 +5,6 @@
 #include <QTcpServer>
 #include <QTcpSocket>
 #include <QSettings>
-#include <QQueue>
 #include "qserverchildthread.h"
 #include "lib/grooveshark/qplayer.h"
 #include "qconfig.h"
@@ -14,8 +13,6 @@ class QServer : public QTcpServer
 {
     Q_OBJECT
 protected:
-    QQueue queued_songs;
-
     void incomingConnection(qintptr);
 
 public:

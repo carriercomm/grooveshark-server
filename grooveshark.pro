@@ -30,6 +30,7 @@ SOURCES += main.cpp \
     lib/grooveshark/qrequest.cpp \
     qserver.cpp \
     qconfig.cpp \
+    qsongsqueue.cpp \
     qserverchildthread.cpp
 
 HEADERS += \
@@ -38,4 +39,5 @@ HEADERS += \
     lib/grooveshark/qrequest.h \
     qserver.h \
     qconfig.h \
+    qsongsqueue.h \
     qserverchildthread.h
